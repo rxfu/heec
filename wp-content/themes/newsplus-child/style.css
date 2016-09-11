@@ -131,3 +131,22 @@ h3.sc-title {
 .entry-header .single-post-thumb {
 	display: none;
 }
+#public li {
+	list-style: none;
+	display: inline-block;
+	width: 33%;
+	background: #a11c79;
+	padding: 10px 0;
+	text-align: center;
+}
+#public li:hover {
+	background: #800e5d;
+}
+#public li a {
+	font-size: 18px;
+	color: #fff;
+	margin: 0 auto;
+}
+#public li a:hover {
+	text-decoration: none;
+}
